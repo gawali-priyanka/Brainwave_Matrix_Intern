@@ -2,7 +2,7 @@ Web Application Deployment
 
  AIM
 To deploy and run a Java web application (loginwebapp.war) on Apache Tomcat, using Maven as the build and dependency management tool.
-![image alt](image_url)https://github.com/gawali-priyanka/Brainwave_Matrix_Intern/blob/main/screenshots/Screenshot%202025-07-10%20170922.png?raw=true
+![image alt](https://github.com/gawali-priyanka/Brainwave_Matrix_Intern/blob/main/screenshots/Screenshot%202025-07-10%20170922.png?raw=true)
 Tomcat Usage
 Apache Tomcat is used as the servlet container to run the application.
 Deploy the loginwebapp.war to Tomcat’s webapps directory.
