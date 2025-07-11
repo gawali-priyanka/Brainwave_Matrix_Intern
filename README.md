@@ -31,4 +31,8 @@ Step 3: Start Tomcat
 Access via URL
 http://13.127.110.26:8080/loginwebapp
 
+Using Maven and Tomcat together, you automated the process to build and deploy your loginwebapp.war.
+By editing .bash_profile, you made your environment reusable across sessions.
+And finally, you accessed your application on the browser.
+
 
