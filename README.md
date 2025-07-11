@@ -20,7 +20,7 @@ To configure Maven & Tomcat environment variables:
 export MAVEN_HOME=/usr/local/apache-maven-3.9.6
 export CATALINA_HOME=/usr/local/apache-tomcat-9.0.85
 export PATH=$PATH:$MAVEN_HOME/bin:$CATALINA_HOME/bin
-
+![image alt](
  Deploy Application
  Step 1: Build the project
  mvn clean package
